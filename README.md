@@ -1,6 +1,6 @@
 # University
 
-#### First Program ####
+## First Program ##
 
 @brief  Search for biggest Subarray value of given Arrays. 
         To get Subarray value we need to use equasion:
@@ -19,7 +19,7 @@
                   i,j indexes of biggest Subarray
                   value of biggest Subarray
 
-#### Second Program ####
+## Second Program ##
 
 @brief  Searches for number of occurances of selected elements in given collection with O(log (n)) complexity
 
@@ -32,9 +32,9 @@
 @output File with searched element
                   number of occurances
 
-#### Third Program ####
+## Third Program ##
 
-## Subprogram .1 ##
+#### Subprogram .1 ####
 
 @brief  generates every possible permutation of given collection
 
@@ -42,7 +42,7 @@
 
 @output File with permutations
 
-  ## Subprogram .2 ##
+  #### Subprogram .2 ####
 
 @brief  generates every possible permutation of given collection in anti lexicographic order
 
@@ -50,7 +50,7 @@
 
 @output File with permutations
 
-  ## Subprogram .3 ##
+  #### Subprogram .3 ####
   
 @breif  generates every possible variation with multicombinations
 
@@ -58,7 +58,7 @@
 
 @output File with variations
 
-#### Fourth Program ####
+## Fourth Program ##
 
 @brief  Generates random numbers using methods:
         > 
@@ -67,15 +67,15 @@
         >
         
         
-#### Fifth Program ####
+## Fifth Program ##
 
-#### Sixth Program ####
+## Sixth Program ##
 
-#### Seventh Program ####
+## Seventh Program ##
 
-#### Eighth Program ####
+## Eighth Program ##
 
-#### Ninth Program ####
+## Ninth Program ##
 
-#### Tenth Program ####
+## Tenth Program ##
 
